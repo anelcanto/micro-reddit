@@ -1,24 +1,6 @@
-# README
+# Micro-reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Micro-reddit creates *events* associated with *users* through rails Active records. This project is based on  [theodinproject.com](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/micro-reddit). 
 
-Things you may want to cover:
+Micro-reddit has no views and is designed to be tested from the `rails console`.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
